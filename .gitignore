@@ -1,0 +1,14 @@
+# Archivos grandes de Unity WebGL
+*.data.unityweb
+*.wasm.unityweb
+*.framework.js.unityweb
+*.symbols.json
+*.mem.unityweb
+
+# Otros archivos que no quieres subir
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+obj/
+*.csproj
+*.sln
